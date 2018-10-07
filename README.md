@@ -1,4 +1,4 @@
-# World-Guess-Game
+# JavaScript Assignment
 
 Overview
 
